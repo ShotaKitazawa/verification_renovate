@@ -47,7 +47,7 @@
           "# renovate: type=remote-directory *\\s *- https:\\/\\/github\\.com\\/(?<depName>[^/]+?\\/[^/]*?)\\/.*\\?ref=(?<currentValue>.*)"
         ],
       "datasourceTemplate": "github-tags"
-    }
+    },
     { // type=remote-file
       "fileMatch": ["(^|/)kustomization\.ya?ml$"],
       "matchStrings": [
