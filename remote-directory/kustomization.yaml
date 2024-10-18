@@ -4,4 +4,4 @@ kind: Kustomization
 namespace: argocd
 resources:
 # renovate: type=remote-directory
-- https://github.com/argoproj/argo-cd/manifests/base?ref=v2.5.3
+- https://github.com/argoproj/argo-cd/manifests/base?ref=v2.12.6
